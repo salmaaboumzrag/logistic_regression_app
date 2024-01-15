@@ -47,7 +47,7 @@ Launch Visual Studio Code and open the project folder.
 2. **Run Streamlit:**
 Open the integrated terminal in Visual Studio Code, ensure that the `streamlit_app` environment is activated, and run the application:
 
-streamlit run app.py
+    streamlit run app.py
 
 
 3. **Access the Application:**
